@@ -1,1 +1,4 @@
-# hackathon-data-sources
+# Hackathon Datenbanken
+
+Food Database:
+https://de.openfoodfacts.org/
