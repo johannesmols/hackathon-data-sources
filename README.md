@@ -13,3 +13,5 @@ https://energy.gov/energysaver/estimating-appliance-and-home-electronic-energy-u
 http://www.tpcdb.com/list.php
 
 http://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland
+
+https://www.bundesnetzagentur.de/cln_1932/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/kraftwerksliste
