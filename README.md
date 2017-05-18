@@ -17,3 +17,5 @@ http://www.tpcdb.com/list.php
 https://www.bundesnetzagentur.de/cln_1932/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/kraftwerksliste
 
 http://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland
+
+https://www.ocean.washington.edu/courses/envir215/energynumbers.pdf
