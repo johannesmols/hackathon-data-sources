@@ -1,10 +1,10 @@
 # Hackathon Datenbanken
 
-:beer: Food:
+:beer: Lebensmittel:
 
 https://de.openfoodfacts.org/
 
-:zap: **Energy**
+:electric_plug: **Energieverbrauch**
 
 https://www.wholesalesolar.com/solar-information/how-to-save-energy/power-table
 
@@ -15,3 +15,5 @@ http://www.tpcdb.com/list.php
 http://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland
 
 https://www.bundesnetzagentur.de/cln_1932/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/kraftwerksliste
+
+:zap: Kraftwerke:
