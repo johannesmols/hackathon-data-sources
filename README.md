@@ -12,6 +12,10 @@ http://www.myfoodbuddy.com/foodCalorieTable.htm
 
 https://en.wikipedia.org/wiki/List_of_foods_by_calorie
 
+http://voetsachikingclub.co.za/wp-content/uploads/2015/05/Food-Calories-List.pdf
+
+http://www.calorieking.com/foods/
+
 :electric_plug: **Energieverbrauch**
 
 https://www.wholesalesolar.com/solar-information/how-to-save-energy/power-table
