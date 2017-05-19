@@ -8,6 +8,10 @@ http://apjcn.nhri.org.tw/server/info/books-phds/books/foodfacts/html/data/data2a
 
 https://ndb.nal.usda.gov/ndb/search/list
 
+http://www.myfoodbuddy.com/foodCalorieTable.htm
+
+https://en.wikipedia.org/wiki/List_of_foods_by_calorie
+
 :electric_plug: **Energieverbrauch**
 
 https://www.wholesalesolar.com/solar-information/how-to-save-energy/power-table
