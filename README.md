@@ -6,6 +6,8 @@ https://de.openfoodfacts.org/
 
 http://apjcn.nhri.org.tw/server/info/books-phds/books/foodfacts/html/data/data2a.html
 
+https://ndb.nal.usda.gov/ndb/search/list
+
 :electric_plug: **Energieverbrauch**
 
 https://www.wholesalesolar.com/solar-information/how-to-save-energy/power-table
